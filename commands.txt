@@ -1,0 +1,2 @@
+java -cp build/classes com.acem.quizwithjava.Main
+javac src/com/acem/quizwithjava/Main.java  -sourcepath src -d build/classes
