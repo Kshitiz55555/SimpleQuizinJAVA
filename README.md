@@ -1,7 +1,7 @@
 # SIMPLE QUIZ IN JAVA
 # By: Kshitiz Khanal
 
-## This is a simple quizapp implemented in JAVA Prograaming language.
+### This is a simple quizapp implemented in JAVA Prograaming language.
 
 
 
